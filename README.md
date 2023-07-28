@@ -3,7 +3,7 @@
 
 Static generator for Go module import URLs. 
 
-## Description
+## Overview
 `modgen` generates webpages to serve an Go module import URLs (also known as Vanity URLs).
 Unlike similar projects (e.g. [govanityurls](https://github.com/GoogleCloudPlatform/govanityurls/tree/master)), `modgen` was designed to be static. This makes it possible to use static web hosting providers — like Github Pages, for example.
 > We are actually using Github Pages to host our own Go module import URLs,
