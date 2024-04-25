@@ -1,4 +1,4 @@
-module go.essaim.dev/modgen
+module essaim.dev/modgen
 
 go 1.20
 
