@@ -31,7 +31,7 @@ Usage of modgen:
 ```
 ### Config file example
 ```yaml
-host: go.essaim.dev
+host: essaim.dev
 
 modules:
   - path: /modgen
