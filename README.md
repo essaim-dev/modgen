@@ -1,7 +1,7 @@
 # `modgen`
 [![Go Reference](https://pkg.go.dev/badge/go.essaim.dev/modgen.svg)](https://pkg.go.dev/essaim.dev/modgen)
 
-Static generator for Go module import URLs. 
+Static generator for Go module vanity URLs. 
 
 ## Overview
 `modgen` generates webpages to serve an Go module import URLs (also known as Vanity URLs).
